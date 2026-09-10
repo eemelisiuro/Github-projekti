@@ -1,1 +1,2 @@
-Lyhyt tarina on aina paras. Nyt muokataan hieman tarinaa Gitissä
+Lyhyt tarina on aina paras. Nyt muokataan hieman tarinaa Gitissä.
+Tarinaa muokattu myös paikallisesti
